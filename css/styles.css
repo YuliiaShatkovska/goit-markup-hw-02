@@ -119,8 +119,8 @@ body {
 .benefit-descr {
   font-size: 16px;
   line-height: 1.5;
-  color: var(--secondary-black-color);
   letter-spacing: 0.02em;
+  color: var(--main-black-color);
 }
 
 /* SECTION WHAT WE ARE DOING */
@@ -214,4 +214,5 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: var(--main-black-color);
 }
