@@ -9,7 +9,7 @@
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: var(--main-black-color);
   background-color: var(--main-light-color);
 }
@@ -27,7 +27,7 @@ body {
 }
 
 .logo {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
   color: var(--brand-color);
   font-weight: 800;
@@ -40,7 +40,7 @@ body {
   color: var(--secondary-black-color);
 }
 
-.nav-page {
+.header-link {
   color: var(--secondary-black-color);
   font-weight: 500;
   font-size: 16px;
@@ -48,9 +48,9 @@ body {
   letter-spacing: 0.02em;
 }
 
-.nav-page:active,
-.nav-page:hover,
-.nav-page:focus {
+.header-link:active,
+.header-link:hover,
+.header-link:focus {
   color: var(--active-color);
 }
 
@@ -89,7 +89,7 @@ body {
 }
 
 .hero-button {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   background-color: var(--brand-color);
   font-size: 16px;
@@ -108,7 +108,7 @@ body {
 
 /* SECTION BENEFITS */
 
-.benefit-title {
+.benefits-subtitle {
   color: var(--secondary-black-color);
   font-weight: 500;
   font-size: 20px;
@@ -116,7 +116,7 @@ body {
   letter-spacing: 0.02em;
 }
 
-.benefit-descr {
+.benefits-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -166,7 +166,7 @@ body {
 
 /* FOOTER */
 
-.page-footer {
+.footer {
   background-color: var(--secondary-black-color);
 }
 
@@ -174,7 +174,7 @@ body {
   color: var(--secondary-light-color);
 }
 
-.footer-info {
+.footer-text {
   font-size: 16px;
   line-height: 1.5;
   color: var(--secondary-light-color);
@@ -184,7 +184,7 @@ body {
 /* PAGE PORTFOLIO */
 
 .portfolio-button {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   background-color: var(--secondary-light-color);
   font-weight: 500;
   font-size: 16px;
